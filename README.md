@@ -25,7 +25,7 @@ Here is where I showcase some of my general machine learning practice. Currently
 - [Gradient Boosting Regression](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Gradient%20Boost/Housing%20Prices%20Hackatho.ipynb) ✔️ (4/08/23)
   - Mean Squared Error: 1353.5836134382407
   - R2: 0.9390071775960762
-- XG Boost
+- [XG Boost](https://github.com/tylerwalkerbrown/First-ml-streamlit-app-snhu-baseball/blob/main/Final_Model_XGBoost.ipynb)
 - LightGBM Regressor 
 - [Adaboost](https://github.com/tylerwalkerbrown/Machine-Learning-Practice/blob/main/Adaboost%20Classifier/Adaboost_classifier.ipynb) ✔️ (3/31/23)
   - ![image](https://user-images.githubusercontent.com/94020684/230753404-2cd9f538-b146-4557-be04-3bedd9f32ef8.png)
